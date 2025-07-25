@@ -1,8 +1,6 @@
 # Atomization-Energy-Prediction
 ML &amp; Dl Model without Co-ordinates and With Co-ordinates 
 
-# Project Title: Predicting Atomization Energy of Materials
-
 ## Description
 This project aims to predict the atomization energy of materials using various machine learning models. The dataset contains information about the chemical composition and properties of different materials. The following models are implemented and evaluated:
 - Elastic Net
